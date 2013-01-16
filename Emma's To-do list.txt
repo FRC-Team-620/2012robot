@@ -1,0 +1,10 @@
+List To-do
+Two sticks on the left for driving. - Done
+Controls for the entrapment stars. Three settings: Forwards, Backwards, Off - Three different buttons
+
+Last Joystick: Five motors to control
+Y axis tilts the arm
+X axis strafes the arm (On slider, not turret)
+Button that makes arm snap back to center position
+Buttons for conveyor belt. 
+Shooter on the Trigger but it also calibrates for a shot at point blank range. 
